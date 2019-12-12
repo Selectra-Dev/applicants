@@ -26,4 +26,3 @@ Finally, you can make the following assumptions:
 - Winter: 1st of December - 28th February
 
 Write code that generates `output.json` from `data.json`
-
