@@ -1,8 +1,11 @@
-# Level 6
+Level 6
+=
+
+# Description
 
 During the year, providers apply additional season costs.
 
-## Instructions
+# Instructions
 
 In this level, you are going to essentially override the `yearly_consumption` value provided as input by `data.json`. The steps are as follows:
 - Read the value from the input file

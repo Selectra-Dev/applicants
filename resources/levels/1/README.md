@@ -1,8 +1,11 @@
-# Level 1
+Level 1
+=
+
+# Description
 
 In this first level, you will be writing the formula to calculate the yearly electricity bill for our customers.
 
-## Instructions
+# Instructions
 
 - `users` contains the yearly consumption (in kWh) and a reference to the current provider
 - `providers` is the list of providers, with related kWh price fee
