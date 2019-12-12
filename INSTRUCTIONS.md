@@ -1,19 +1,24 @@
-Selectra Technical Challenge
+Instructions
 =
 
-part1
-level1
-level2
-level3
-level4
-level5
-level6
-part2
+- Clone or fork this repository
 
-- Clone this repository
 - Solve as many levels as you can, and in ascending order
-- Commit your code at the end of each level
-- Give `part2` a try, even if you have not fully finished `part1`
-- Email rh+tech@selectra.info when you are done, with a link to your GitHub repository!
 
-Levels become more complex over time, so you will probably have to re-use some code and adapt it to the new requirements.
+    - [Level 1](/resources/levels/1/README.md)
+
+    - [Level 2](/resources/levels/2/README.md)
+
+    - [Level 3](/resources/levels/3/README.md)
+
+    - [Level 4](/resources/levels/4/README.md)
+
+    - [Level 5](/resources/levels/5/README.md)
+
+    - [Level 6](/resources/levels/6/README.md)
+
+    > Levels become more complex over time, so you will probably have to re-use some code and adapt it to the new requirements.
+
+- Give it a try with bonus, even if you have not fully finished all the levels
+
+    - [Bonus](/resources/levels/bonus)

@@ -1,8 +1,11 @@
-# Level 2
+Level 2
+=
+
+# Description
 
 Sometimes, contracts have special discounts, depending on their length.
 
-## Instructions
+# Instructions
 
 In this level we have added a new entity, `Contract`. We are making good progress on our product and every user can have multiple contracts. On the other side, a contract is associated with a provider.
 

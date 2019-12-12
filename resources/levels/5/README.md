@@ -1,8 +1,11 @@
-# Level 5
+Level 5
+=
+
+# Description
 
 Customers are always on the lookup for the best deals. So let's meet their expectations.
 
-## Instructions
+# Instructions
 
 First of all, we have decided to replace `contract_length` with `start_date` and `end_date`
 
