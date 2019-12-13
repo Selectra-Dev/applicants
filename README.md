@@ -52,7 +52,7 @@ Desired traits:
     > Expect unexpected. Use design patterns.
 
 - Provide self-contained solution
-    > We use Docker (and docker-compose).
+    > We use `Docker` (and `docker-compose`).
 
 After all, please don't over-engineer and show-off. We're also programmers - we prefer to receive solid foundation than fully working code.
 
@@ -64,4 +64,4 @@ This task is divided into six parts and a bonus. The complete instructions are a
 
 Spend as much time as you want. You're not limited to any technology, although don't go crazy with it :).
 
-Good luck and happy coding!
+*Good luck and happy coding!*

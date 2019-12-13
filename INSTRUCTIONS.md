@@ -3,7 +3,9 @@ Instructions
 
 - Clone or fork this repository
 
-- Solve as many levels as you can, and in ascending order
+- Familiarize with all the instructions
+
+- Solve as many levels as you can (in ascending order)
 
     - [Level 1](/resources/levels/1)
 
