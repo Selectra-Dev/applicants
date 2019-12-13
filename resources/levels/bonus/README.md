@@ -15,4 +15,6 @@ Some ideas could be:
 - An user-friendly print of the output
 - Export output in different formats
 
+# Result
+
 Keep in mind that we are looking for clean, readable and robust code.

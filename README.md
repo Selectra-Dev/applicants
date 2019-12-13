@@ -9,9 +9,9 @@ Welcome to Selectra's technical challenge!
 
 1. [Description](#description)
 
-2. [Instructions](#instructions)
+2. [Requirements](#requirements)
 
-3. [Requirements](#requirements)
+3. [Instructions](#instructions)
 
 4. [Summary](#summary)
 
@@ -37,7 +37,7 @@ We will value yours architecture commentary as we like to see how candidates "ta
 
 We would like your solution to:
 
-- Be host it [GitHub](https://github.com/), or any other *popular* platform
+- Be host it [GitHub](https://github.com/), or any other **popular** platform
     > We would like to see the commits history and how you handled the repository in general. The importance of it is supported by intense teamwork we conduct in Selectra.
 
 - Be documented

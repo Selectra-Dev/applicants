@@ -25,4 +25,6 @@ Finally, you can make the following assumptions:
 - Fall: 1st September - 30th November
 - Winter: 1st of December - 28th February
 
+# Result
+
 Write code that generates `output.json` from `data.json`

@@ -14,4 +14,6 @@ The discount rules are as follows (`contract_length` is a positive non-zero inte
 - if `contract_length` is greater than 1 and less or equal than 3 -> 20% discount
 - if `contract_length` is greater than 3 -> 25% discount
 
+# Result
+
 Write code that generates `output.json` from `data.json`

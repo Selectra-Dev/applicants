@@ -15,4 +15,6 @@ A customer can then change its contract's provider, and here are the steps:
 
 To make things easier, you can assume the difference between `start_date` and `end_date` is always in terms of years (day and month are the same).
 
+# Result
+
 Write code that generates `output.json` from `data.json`
